@@ -1,0 +1,37 @@
+#Every certification track begins here. This is the first exam required to achieve F5 Certified BIG-IP Administrator status. All candidates must take this exam to move forward in the program.
+#Passing Exam 101 Application Delivery Fundamentals ensures that candidates have the skills and understanding necessary for day-to-day management of application delivery networks (ADNs) and verifies the candidate has the necessary foundation to pursue all further certification tracks. This exam identifies candidates that possess the knowledge that is necessary to work with F5 products and technologies.
+#Summary description of the minimally qualified candidate (MQC)
+#The MQC has a basic understanding of IP network fundamentals, protocols, basic security concepts, and common traffic management concepts. The MQC should also be familiar with F5 technologies, application delivery networking, and traffic distribution across multiple devices, and be able to identify common problems and likely causes.
+#The MQC can do the following without assistance:
+
+# Identify and define the components of TMOS
+  # Reference Learning :
+    -> https://ipwithease.com/tmos-components-of-big-ip/
+    -> https://packetpushers.net/what-the-heck-is-f5-networks-tmos/
+    -> https://bakotech.ua/ua/uploads/ckeditor/files/f5-tmos-operations-guide.pdf
+    
+# Describe the Open Systems Interconnection (OSI) model
+  -> OSI Layer
+  
+# Log in to a device and look at logs
+  -> https://my.f5.com/manage/s/article/K16197
+  
+# Troubleshoot basic network issues
+  -> https://techdocs.f5.com/kb/en-us/products/big-ip-dns/manuals/product/bigip-dns-implementations-13-0-0/23.html#guid-eed283e8-6d2c-47a2-aa69-618e9e1775db
+  
+# Create a problem statement
+  -> https://clouddocs.f5.com/training/community/f5cert/html/class9/modules/module2.html
+  
+# Understand client-server networking
+  -> https://my.f5.com/manage/s/article/K02344525
+  
+# Know common HTTP error codes
+  -> https://my.f5.com/manage/s/article/K57474155
+  -> https://my.f5.com/manage/s/article/K41272042
+  
+# Describe basic differences between public vs. private cloud
+
+# Know common application service ports
+  -> https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+  -> https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/
+  -> https://www.geeksforgeeks.org/50-common-ports-you-should-know/
